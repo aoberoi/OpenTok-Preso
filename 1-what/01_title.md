@@ -2,6 +2,6 @@
 
 <img src="../img/opentok_logo.png" class="opentok_logo" />
 
-## Jon Mumm ##
+## Ankur Oberoi ##
 
-### @jonmumm ###
+### @ankuroberoi ###
